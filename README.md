@@ -1,2 +1,2 @@
-# starting_git2
+# starting_git
 Test project for Git workshop
